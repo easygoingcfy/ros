@@ -1,0 +1,2 @@
+ros_pkg
+-DCATKIN_DEVEL_PREFIX=/home/caofangyu/ros/hello_world/devel -DCMAKE_INSTALL_PREFIX=/home/caofangyu/ros/hello_world/install -G Unix Makefiles

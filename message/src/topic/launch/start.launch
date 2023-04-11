@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="topic" type="velocity_publisher" name="publiser" />
+    <node pkg="turtlesim" type="turtlesim_node" name="turtle_GUI" />
+</launch>
